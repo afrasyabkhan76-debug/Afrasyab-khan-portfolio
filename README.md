@@ -1,32 +1,24 @@
-# Afrasyab Khan | Portfolio
+# 🌐 Afrasyab Khan — Portfolio
 
-Personal portfolio website of Afrasyab Khan, a Flutter and app developer studying at UET Peshawar, Pakistan.
+A professional and responsive personal portfolio website showcasing my skills, projects, and journey as a Flutter Developer.
 
-**Live:** YOUR-LIVE-LINK
+### 🚀 Built With
+- HTML
+- CSS
+- JavaScript
 
-## Overview
+### ✨ Features
+- Modern, responsive UI
+- About me and skills section
+- Project showcase
+- Contact links
 
-A responsive, single-page portfolio presenting my skills, projects and contact details.
+### 👨‍💻 About Me
+I'm a Computer Science student at UET Peshawar, currently in my 3rd semester, passionate about Flutter and app development.
 
-## Features
+### 📬 Contact
+- GitHub: [afrasyabkhan76-debug](https://github.com/afrasyabkhan76-debug)
+- Instagram: [@afrasyab378](https://www.instagram.com/afrasyab378/)
+- Email: afraseyabkhan76@gmail.com
 
-- Responsive design for mobile, tablet and desktop
-- Light and dark theme
-- Smooth scroll animations and typing effect
-- Accessible, with reduced-motion support
-
-## Tech stack
-
-HTML5 · CSS3 · JavaScript (no frameworks)
-
-## Run locally
-
-```bash
-git clone https://github.com/afrasyabkhan76-debug/REPOSITORY-NAME.git
-```
-
-Open `index.html` in your browser. No installation required.
-
-## Contact
-
-[GitHub](https://github.com/afrasyabkhan76-debug) · [LinkedIn](https://www.linkedin.com/in/afrasyab-khan-15bb8335a) · afraseyabkhan76@gmail.com
+*Learning, building, and growing every day!* 💜
